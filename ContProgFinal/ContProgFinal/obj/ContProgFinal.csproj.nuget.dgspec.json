@@ -53,6 +53,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "NSwag.Core": {
+              "target": "Package",
+              "version": "[13.16.1, )"
             }
           },
           "imports": [
