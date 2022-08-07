@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FinalProject.Controllers
+namespace ContProgFinal.Controllers
 {
     [ApiController]
     [Route("[controller]")]

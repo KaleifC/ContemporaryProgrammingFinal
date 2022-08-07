@@ -1,6 +1,6 @@
 using System;
 
-namespace FinalProject
+namespace ContProgFinal
 {
     public class WeatherForecast
     {
