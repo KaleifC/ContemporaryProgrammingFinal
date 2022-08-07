@@ -3,10 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ContProgFinal.Controllers
 {
-    public class TeamController: Controller
+    public class SpellsController: Controller
     {
-        private readonly TeamContext _context;
-        public TeamController(TeamContext context)
+        private readonly SpellsContext _context;
+        public SpellsController(SpellsContext context)
         {
             _context = context;
         }

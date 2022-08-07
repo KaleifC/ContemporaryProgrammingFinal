@@ -3,10 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ContProgFinal.Controllers
 {
-    public class TeamController: Controller
+    public class ClassesController: Controller
     {
-        private readonly TeamContext _context;
-        public TeamController(TeamContext context)
+        private readonly ClassesContext _context;
+        public ClassesController(ClassesContext context)
         {
             _context = context;
         }
